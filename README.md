@@ -1,7 +1,6 @@
 ### Hi there 👋
 <h1>👋 Hi, I’m Alex </h1>
 
-- 👀 I’m interested in upgrade development skils
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking work as web developer
 
