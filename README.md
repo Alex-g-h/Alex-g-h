@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking work as web developer
 
-<a href="https://alex-g-h.github.io/portfolio/" target="_blank">Portfolio page</a>
+<a href="https://alex-g-h.github.io/portfolio/" target="blank">Portfolio page</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
