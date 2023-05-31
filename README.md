@@ -2,7 +2,7 @@
 <h1>👋 Hi, I’m Alex </h1>
 
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking work as web developer
+- 💞️ I’m looking for a work as web developer
 
 <a href="https://alex-g-h.github.io/portfolio/" target="blank">Portfolio page</a>
 
