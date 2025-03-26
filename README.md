@@ -1,8 +1,8 @@
 ### Hi there 👋
 <h1>👋 Hi, I’m Alex </h1>
 
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking for a work as web developer
+- 🌱 I’m currently learning modile, web development
+- 💞️ I’m looking for a work as mobile, web developer
 
 <a href="https://alex-g-h.github.io/portfolio/" target="blank">Portfolio page</a>
 
@@ -37,6 +37,13 @@
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
     <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 </p>
+
+<p align="left"> 
+    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" alt="flutter" width="141" height="40"/> </a>
+    <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://dart.dev/assets/img/logo/logo-white-text.svg" alt="flutter" width="136" height="40"/> </a>
+</p>
+
+
 
 <br>
 
